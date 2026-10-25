@@ -1,0 +1,1258 @@
+[
+  {
+    "name": "Malachite - 0",
+    "category": ["Story Mode"],
+    "requires": ""
+  },
+  {
+    "name": "Malachite - 1",
+    "category": ["Story Mode"],
+    "requires": ""
+  },
+  {
+    "name": "Dying Scarlet - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode|"
+  },
+  {
+    "name": "Dying Scarlet - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode|"
+  },
+  {
+    "name": "Magneter - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:2|"
+  },
+  {
+    "name": "Magneter - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:2|"
+  },
+  {
+    "name": "Divination - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:3|"
+  },
+  {
+    "name": "Divination - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:3|"
+  },
+  {
+    "name": "Perfect Machine - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:4|"
+  },
+  {
+    "name": "Perfect Machine - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:4|"
+  },
+  {
+    "name": "Ahead of the Curve - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:5|"
+  },
+  {
+    "name": "Ahead of the Curve - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:5|"
+  },
+  {
+    "name": "Tokyo Skies - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:6|"
+  },
+  {
+    "name": "Tokyo Skies - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:6|"
+  },
+  {
+    "name": "Node - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:7|"
+  },
+  {
+    "name": "Node - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:7|"
+  },
+  {
+    "name": "Shibuya - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:8|"
+  },
+  {
+    "name": "Shibuya - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:8|"
+  },
+  {
+    "name": "The Mothership - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:9|"
+  },
+  {
+    "name": "The Mothership - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:9|"
+  },
+  {
+    "name": "Granite - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:10|"
+  },
+  {
+    "name": "Granite - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:10|"
+  },
+  {
+    "name": "Memory - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:11|"
+  },
+  {
+    "name": "Memory - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:11|"
+  },
+  {
+    "name": "Spectra - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:12|"
+  },
+  {
+    "name": "Spectra - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:12|"
+  },
+  {
+    "name": "Pure Functionality - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:13|"
+  },
+  {
+    "name": "Pure Functionality - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:13|"
+  },
+  {
+    "name": "Sphere - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:14|"
+  },
+  {
+    "name": "Sphere - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:14|"
+  },
+  {
+    "name": "Dimension - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:15|"
+  },
+  {
+    "name": "Dimension - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:15|"
+  },
+  {
+    "name": "Milkshake - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:16|"
+  },
+  {
+    "name": "Milkshake - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:16|"
+  },
+  {
+    "name": "Opia - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:17|"
+  },
+  {
+    "name": "Opia - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:17|"
+  },
+  {
+    "name": "Symbiot - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:18|"
+  },
+  {
+    "name": "Symbiot - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:18|"
+  },
+  {
+    "name": "Terrorgan - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:19|"
+  },
+  {
+    "name": "Terrorgan - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:19|"
+  },
+  {
+    "name": "Stasis - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:20|"
+  },
+  {
+    "name": "Stasis - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:20|"
+  },
+  {
+    "name": "Hashi - 0",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:21|"
+  },
+  {
+    "name": "Hashi - 1",
+    "category": ["Story Mode"],
+    "requires": "|Progressive Story Mode:21|"
+  },
+  {
+    "name": "Mantis - 0",
+    "category": ["Story Mode"],
+    "requires": "|Mantis|"
+  },
+  {
+    "name": "Mantis - 1",
+    "category": ["Story Mode"],
+    "requires": "|Mantis|"
+  },
+  {
+    "name": "Counter Format - 0",
+    "category": ["Story Mode"],
+    "requires": "|Counter Format|"
+  },
+  {
+    "name": "Counter Format - 1",
+    "category": ["Story Mode"],
+    "requires": "|Counter Format|"
+  },
+  {
+    "name": "Regain Control - 0",
+    "category": ["Story Mode"],
+    "requires": "|Regain Control|"
+  },
+  {
+    "name": "Regain Control - 1",
+    "category": ["Story Mode"],
+    "requires": "|Regain Control|"
+  },
+  {
+    "victory": true,
+    "name": "Victory",
+    "category": ["Victory"],
+    "requires": "|Arrhythmia:ALL|"
+  },
+  {
+    "name": "DLC Song 1 - 0",
+    "category": ["5 DLC Songs"],
+    "requires": "|DLC Song 1|"
+  },
+  {
+    "name": "DLC Song 1 - 1",
+    "category": ["5 DLC Songs"],
+    "requires": "|DLC Song 1|"
+  },
+  {
+    "name": "DLC Song 2 - 0",
+    "category": ["5 DLC Songs"],
+    "requires": "|DLC Song 2|"
+  },
+  {
+    "name": "DLC Song 2 - 1",
+    "category": ["5 DLC Songs"],
+    "requires": "|DLC Song 2|"
+  },
+  {
+    "name": "DLC Song 3 - 0",
+    "category": ["5 DLC Songs"],
+    "requires": "|DLC Song 3|"
+  },
+  {
+    "name": "DLC Song 3 - 1",
+    "category": ["5 DLC Songs"],
+    "requires": "|DLC Song 3|"
+  },
+  {
+    "name": "DLC Song 4 - 0",
+    "category": ["5 DLC Songs"],
+    "requires": "|DLC Song 4|"
+  },
+  {
+    "name": "DLC Song 4 - 1",
+    "category": ["5 DLC Songs"],
+    "requires": "|DLC Song 4|"
+  },
+  {
+    "name": "DLC Song 5 - 0",
+    "category": ["5 DLC Songs"],
+    "requires": "|DLC Song 5|"
+  },
+  {
+    "name": "DLC Song 5 - 1",
+    "category": ["5 DLC Songs"],
+    "requires": "|DLC Song 5|"
+  },
+  {
+    "name": "DLC Song 6 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 6|"
+  },
+  {
+    "name": "DLC Song 6 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 6|"
+  },
+  {
+    "name": "DLC Song 7 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 7|"
+  },
+  {
+    "name": "DLC Song 7 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 7|"
+  },
+  {
+    "name": "DLC Song 8 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 8|"
+  },
+  {
+    "name": "DLC Song 8 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 8|"
+  },
+  {
+    "name": "DLC Song 9 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 9|"
+  },
+  {
+    "name": "DLC Song 9 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 9|"
+  },
+  {
+    "name": "DLC Song 10 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 10|"
+  },
+  {
+    "name": "DLC Song 10 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 10|"
+  },
+  {
+    "name": "DLC Song 11 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 11|"
+  },
+  {
+    "name": "DLC Song 11 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 11|"
+  },
+  {
+    "name": "DLC Song 12 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 12|"
+  },
+  {
+    "name": "DLC Song 12 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 12|"
+  },
+  {
+    "name": "DLC Song 13 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 13|"
+  },
+  {
+    "name": "DLC Song 13 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 13|"
+  },
+  {
+    "name": "DLC Song 14 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 14|"
+  },
+  {
+    "name": "DLC Song 14 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 14|"
+  },
+  {
+    "name": "DLC Song 15 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 15|"
+  },
+  {
+    "name": "DLC Song 15 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 15|"
+  },
+  {
+    "name": "DLC Song 16 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 16|"
+  },
+  {
+    "name": "DLC Song 16 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 16|"
+  },
+  {
+    "name": "DLC Song 17 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 17|"
+  },
+  {
+    "name": "DLC Song 17 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 17|"
+  },
+  {
+    "name": "DLC Song 18 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 18|"
+  },
+  {
+    "name": "DLC Song 18 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 18|"
+  },
+  {
+    "name": "DLC Song 19 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 19|"
+  },
+  {
+    "name": "DLC Song 19 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 19|"
+  },
+  {
+    "name": "DLC Song 20 - 0",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 20|"
+  },
+  {
+    "name": "DLC Song 20 - 1",
+    "category": ["15 DLC Songs"],
+    "requires": "|DLC Song 20|"
+  },
+  {
+    "name": "DLC Song 21 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 21|"
+  },
+  {
+    "name": "DLC Song 21 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 21|"
+  },
+  {
+    "name": "DLC Song 22 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 22|"
+  },
+  {
+    "name": "DLC Song 22 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 22|"
+  },
+  {
+    "name": "DLC Song 23 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 23|"
+  },
+  {
+    "name": "DLC Song 23 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 23|"
+  },
+  {
+    "name": "DLC Song 24 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 24|"
+  },
+  {
+    "name": "DLC Song 24 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 24|"
+  },
+  {
+    "name": "DLC Song 25 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 25|"
+  },
+  {
+    "name": "DLC Song 25 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 25|"
+  },
+  {
+    "name": "DLC Song 26 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 26|"
+  },
+  {
+    "name": "DLC Song 26 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 26|"
+  },
+  {
+    "name": "DLC Song 27 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 27|"
+  },
+  {
+    "name": "DLC Song 27 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 27|"
+  },
+  {
+    "name": "DLC Song 28 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 28|"
+  },
+  {
+    "name": "DLC Song 28 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 28|"
+  },
+  {
+    "name": "DLC Song 29 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 29|"
+  },
+  {
+    "name": "DLC Song 29 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 29|"
+  },
+  {
+    "name": "DLC Song 30 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 30|"
+  },
+  {
+    "name": "DLC Song 30 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 30|"
+  },
+  {
+    "name": "DLC Song 31 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 31|"
+  },
+  {
+    "name": "DLC Song 31 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 31|"
+  },
+  {
+    "name": "DLC Song 32 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 32|"
+  },
+  {
+    "name": "DLC Song 32 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 32|"
+  },
+  {
+    "name": "DLC Song 33 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 33|"
+  },
+  {
+    "name": "DLC Song 33 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 33|"
+  },
+  {
+    "name": "DLC Song 34 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 34|"
+  },
+  {
+    "name": "DLC Song 34 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 34|"
+  },
+  {
+    "name": "DLC Song 35 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 35|"
+  },
+  {
+    "name": "DLC Song 35 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 35|"
+  },
+  {
+    "name": "DLC Song 36 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 36|"
+  },
+  {
+    "name": "DLC Song 36 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 36|"
+  },
+  {
+    "name": "DLC Song 37 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 37|"
+  },
+  {
+    "name": "DLC Song 37 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 37|"
+  },
+  {
+    "name": "DLC Song 38 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 38|"
+  },
+  {
+    "name": "DLC Song 38 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 38|"
+  },
+  {
+    "name": "DLC Song 39 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 39|"
+  },
+  {
+    "name": "DLC Song 39 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 39|"
+  },
+  {
+    "name": "DLC Song 40 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 40|"
+  },
+  {
+    "name": "DLC Song 40 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 40|"
+  },
+  {
+    "name": "DLC Song 41 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 41|"
+  },
+  {
+    "name": "DLC Song 41 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 41|"
+  },
+  {
+    "name": "DLC Song 42 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 42|"
+  },
+  {
+    "name": "DLC Song 42 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 42|"
+  },
+  {
+    "name": "DLC Song 43 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 43|"
+  },
+  {
+    "name": "DLC Song 43 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 43|"
+  },
+  {
+    "name": "DLC Song 44 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 44|"
+  },
+  {
+    "name": "DLC Song 44 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 44|"
+  },
+  {
+    "name": "DLC Song 45 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 45|"
+  },
+  {
+    "name": "DLC Song 45 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 45|"
+  },
+  {
+    "name": "DLC Song 46 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 46|"
+  },
+  {
+    "name": "DLC Song 46 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 46|"
+  },
+  {
+    "name": "DLC Song 47 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 47|"
+  },
+  {
+    "name": "DLC Song 47 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 47|"
+  },
+  {
+    "name": "DLC Song 48 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 48|"
+  },
+  {
+    "name": "DLC Song 48 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 48|"
+  },
+  {
+    "name": "DLC Song 49 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 49|"
+  },
+  {
+    "name": "DLC Song 49 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 49|"
+  },
+  {
+    "name": "DLC Song 50 - 0",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 50|"
+  },
+  {
+    "name": "DLC Song 50 - 1",
+    "category": ["30 DLC Songs"],
+    "requires": "|DLC Song 50|"
+  },
+  {
+    "name": "DLC Song 51 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 51|"
+  },
+  {
+    "name": "DLC Song 51 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 51|"
+  },
+  {
+    "name": "DLC Song 52 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 52|"
+  },
+  {
+    "name": "DLC Song 52 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 52|"
+  },
+  {
+    "name": "DLC Song 53 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 53|"
+  },
+  {
+    "name": "DLC Song 53 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 53|"
+  },
+  {
+    "name": "DLC Song 54 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 54|"
+  },
+  {
+    "name": "DLC Song 54 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 54|"
+  },
+  {
+    "name": "DLC Song 55 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 55|"
+  },
+  {
+    "name": "DLC Song 55 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 55|"
+  },
+  {
+    "name": "DLC Song 56 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 56|"
+  },
+  {
+    "name": "DLC Song 56 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 56|"
+  },
+  {
+    "name": "DLC Song 57 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 57|"
+  },
+  {
+    "name": "DLC Song 57 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 57|"
+  },
+  {
+    "name": "DLC Song 58 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 58|"
+  },
+  {
+    "name": "DLC Song 58 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 58|"
+  },
+  {
+    "name": "DLC Song 59 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 59|"
+  },
+  {
+    "name": "DLC Song 59 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 59|"
+  },
+  {
+    "name": "DLC Song 60 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 60|"
+  },
+  {
+    "name": "DLC Song 60 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 60|"
+  },
+  {
+    "name": "DLC Song 61 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 61|"
+  },
+  {
+    "name": "DLC Song 61 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 61|"
+  },
+  {
+    "name": "DLC Song 62 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 62|"
+  },
+  {
+    "name": "DLC Song 62 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 62|"
+  },
+  {
+    "name": "DLC Song 63 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 63|"
+  },
+  {
+    "name": "DLC Song 63 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 63|"
+  },
+  {
+    "name": "DLC Song 64 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 64|"
+  },
+  {
+    "name": "DLC Song 64 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 64|"
+  },
+  {
+    "name": "DLC Song 65 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 65|"
+  },
+  {
+    "name": "DLC Song 65 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 65|"
+  },
+  {
+    "name": "DLC Song 66 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 66|"
+  },
+  {
+    "name": "DLC Song 66 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 66|"
+  },
+  {
+    "name": "DLC Song 67 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 67|"
+  },
+  {
+    "name": "DLC Song 67 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 67|"
+  },
+  {
+    "name": "DLC Song 68 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 68|"
+  },
+  {
+    "name": "DLC Song 68 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 68|"
+  },
+  {
+    "name": "DLC Song 69 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 69|"
+  },
+  {
+    "name": "DLC Song 69 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 69|"
+  },
+  {
+    "name": "DLC Song 70 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 70|"
+  },
+  {
+    "name": "DLC Song 70 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 70|"
+  },
+  {
+    "name": "DLC Song 71 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 71|"
+  },
+  {
+    "name": "DLC Song 71 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 71|"
+  },
+  {
+    "name": "DLC Song 72 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 72|"
+  },
+  {
+    "name": "DLC Song 72 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 72|"
+  },
+  {
+    "name": "DLC Song 73 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 73|"
+  },
+  {
+    "name": "DLC Song 73 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 73|"
+  },
+  {
+    "name": "DLC Song 74 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 74|"
+  },
+  {
+    "name": "DLC Song 74 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 74|"
+  },
+  {
+    "name": "DLC Song 75 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 75|"
+  },
+  {
+    "name": "DLC Song 75 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 75|"
+  },
+  {
+    "name": "DLC Song 76 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 76|"
+  },
+  {
+    "name": "DLC Song 76 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 76|"
+  },
+  {
+    "name": "DLC Song 77 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 77|"
+  },
+  {
+    "name": "DLC Song 77 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 77|"
+  },
+  {
+    "name": "DLC Song 78 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 78|"
+  },
+  {
+    "name": "DLC Song 78 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 78|"
+  },
+  {
+    "name": "DLC Song 79 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 79|"
+  },
+  {
+    "name": "DLC Song 79 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 79|"
+  },
+  {
+    "name": "DLC Song 80 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 80|"
+  },
+  {
+    "name": "DLC Song 80 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 80|"
+  },
+  {
+    "name": "DLC Song 81 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 81|"
+  },
+  {
+    "name": "DLC Song 81 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 81|"
+  },
+  {
+    "name": "DLC Song 82 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 82|"
+  },
+  {
+    "name": "DLC Song 82 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 82|"
+  },
+  {
+    "name": "DLC Song 83 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 83|"
+  },
+  {
+    "name": "DLC Song 83 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 83|"
+  },
+  {
+    "name": "DLC Song 84 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 84|"
+  },
+  {
+    "name": "DLC Song 84 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 84|"
+  },
+  {
+    "name": "DLC Song 85 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 85|"
+  },
+  {
+    "name": "DLC Song 85 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 85|"
+  },
+  {
+    "name": "DLC Song 86 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 86|"
+  },
+  {
+    "name": "DLC Song 86 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 86|"
+  },
+  {
+    "name": "DLC Song 87 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 87|"
+  },
+  {
+    "name": "DLC Song 87 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 87|"
+  },
+  {
+    "name": "DLC Song 88 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 88|"
+  },
+  {
+    "name": "DLC Song 88 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 88|"
+  },
+  {
+    "name": "DLC Song 89 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 89|"
+  },
+  {
+    "name": "DLC Song 89 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 89|"
+  },
+  {
+    "name": "DLC Song 90 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 90|"
+  },
+  {
+    "name": "DLC Song 90 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 90|"
+  },
+  {
+    "name": "DLC Song 91 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 91|"
+  },
+  {
+    "name": "DLC Song 91 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 91|"
+  },
+  {
+    "name": "DLC Song 92 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 92|"
+  },
+  {
+    "name": "DLC Song 92 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 92|"
+  },
+  {
+    "name": "DLC Song 93 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 93|"
+  },
+  {
+    "name": "DLC Song 93 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 93|"
+  },
+  {
+    "name": "DLC Song 94 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 94|"
+  },
+  {
+    "name": "DLC Song 94 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 94|"
+  },
+  {
+    "name": "DLC Song 95 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 95|"
+  },
+  {
+    "name": "DLC Song 95 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 95|"
+  },
+  {
+    "name": "DLC Song 96 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 96|"
+  },
+  {
+    "name": "DLC Song 96 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 96|"
+  },
+  {
+    "name": "DLC Song 97 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 97|"
+  },
+  {
+    "name": "DLC Song 97 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 97|"
+  },
+  {
+    "name": "DLC Song 98 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 98|"
+  },
+  {
+    "name": "DLC Song 98 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 98|"
+  },
+  {
+    "name": "DLC Song 99 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 99|"
+  },
+  {
+    "name": "DLC Song 99 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 99|"
+  },
+  {
+    "name": "DLC Song 100 - 0",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 100|"
+  },
+  {
+    "name": "DLC Song 100 - 1",
+    "category": ["50 DLC Songs"],
+    "requires": "|DLC Song 100|"
+  }
+]

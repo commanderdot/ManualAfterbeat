@@ -1,0 +1,638 @@
+[
+  {
+    "count": 24,
+    "name": "Progressive Story Mode",
+    "category": ["Story Mode"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mantis",
+    "category": ["Story Mode"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Counter Format",
+    "category": ["Story Mode"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Regain Control",
+    "category": ["Story Mode"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 1",
+     "category": ["5 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 2",
+     "category": ["5 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 3",
+     "category": ["5 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 4",
+     "category": ["5 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 5",
+     "category": ["5 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 6",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 7",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 8",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 9",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 10",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 11",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 12",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 13",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 14",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 15",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 16",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 17",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 18",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 19",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 20",
+     "category": ["15 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 21",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 22",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 23",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 24",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 25",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 26",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 27",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 28",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 29",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 30",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 31",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 32",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 33",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 34",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 35",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 36",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 37",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 38",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 39",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 40",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 41",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 42",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 43",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 44",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 45",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 46",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 47",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 48",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 49",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 50",
+     "category": ["30 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 51",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 52",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 53",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 54",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 55",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 56",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 57",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 58",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 59",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 60",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 61",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 62",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 63",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 64",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 65",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 66",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 67",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 68",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 69",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 70",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 71",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 72",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 73",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 74",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 75",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 76",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 77",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 78",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 79",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 80",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 81",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 82",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 83",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 84",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 85",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 86",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 87",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 88",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 89",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 90",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 91",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 92",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 93",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 94",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 95",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 96",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 97",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 98",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 99",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DLC Song 100",
+     "category": ["50 DLC Songs", "Songs"],
+    "progression": true
+  },
+  {
+    "count": 20,
+    "name": "Arrhythmia",
+     "category": [""],
+    "progression": true
+  },
+  {
+    "count": 25,
+    "name": "A Bullet to Dodge",
+     "category": [""],
+    "filler": true
+  }
+]
